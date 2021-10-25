@@ -1,5 +1,6 @@
 *{
   font-family: 'Roboto', sans-serif;
+  background-color: #fcf3d7;
   }
 
   /* Navbar */
@@ -11,6 +12,8 @@
     justify-content: space-between;
     align-items: center;
     color:darkgrey;
+    border-style: dotted;
+    border:firebrick;
   }
   nav {
     display: flex;
