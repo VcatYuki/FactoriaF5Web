@@ -60,12 +60,12 @@
     font-size: 25px;
   }
   .but1{
-    background: black;
-    color: white;
+    background: red;
+    color: greenyellow;
   }
   .but2{
-    background: #a095c9;
-    color: white;
+    background: orange;
+    color: blue;
   }
 
   /* 3 art */
