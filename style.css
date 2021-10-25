@@ -79,6 +79,7 @@
   .aimg{
     display:flex;
     max-width: 60%;
+    max-height: 200px;
   }
   .text {
     display:flex;
