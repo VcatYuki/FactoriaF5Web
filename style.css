@@ -4,7 +4,7 @@
 
   /* Navbar */
 .heart {
-  max-width: fit-content;
+  max-width: 50px;
 }
  .navbar {
     display: flex;
