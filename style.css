@@ -1,6 +1,5 @@
 *{
   font-family: 'Roboto', sans-serif;
-  background-color: #fcf3d7;
   }
 
   /* Navbar */
@@ -12,8 +11,6 @@
     justify-content: space-between;
     align-items: center;
     color:darkgrey;
-    border-style: dotted;
-    border:firebrick;
   }
   nav {
     display: flex;
@@ -63,12 +60,12 @@
     font-size: 25px;
   }
   .but1{
-    background: red;
-    color: greenyellow;
+    background: black;
+    color: whitesmoke;
   }
   .but2{
-    background: orange;
-    color: blue;
+    background: rgb(102, 187, 53);
+    color:whitesmoke;
   }
 
   /* 3 art */
