@@ -15,7 +15,7 @@
   nav {
     display: flex;
     justify-content: space-around;
-    width: 60vh; /* Ò_Ó */
+    width: 75vh; /* Ò_Ó */
   }
   .active {
     color:black ;
@@ -53,20 +53,20 @@
   .but1,
   .but2
   {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     display: flex;
     padding: 15px 25px;
-    border-radius: 45px;    
+    border-radius: 75px;    
     border: none;
     font-size: 25px;
   }
   .but1{
-
-    background: black;
-    color: whitesmoke;
+    background: pink;
+    color: rgb(74, 60, 153);
   }
   .but2{
-    background: rgb(102, 187, 53);
-    color:whitesmoke;
+    background: rgb(187, 53, 53);
+    color:rgb(78, 191, 206);
 
   }
 
