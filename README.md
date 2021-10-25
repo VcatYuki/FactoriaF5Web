@@ -1,1 +1,1 @@
-La guer... El proyecto de grupo de Star Team
+La guer... El proyecto de grupo de Team Star
